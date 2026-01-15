@@ -29,5 +29,5 @@ Ao desenvolver este projeto, foi possível:
 
 ## 📌 Observação
 
-Este prjeto tem **finalidade educacional**.
+Este projeto tem **finalidade educacional**.
 
